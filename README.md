@@ -24,15 +24,16 @@ To get started with the project, follow these steps:
 
 📥 Clone the Repository
 
-bash```
+```
 git clone git@github.com:JaaJPlayz/flake-blizzard-client.git
 cd nix-flakes-react-client
 ```
+
 📦 Install Dependencies
 
 To install dependencies using Nix Flakes, use the following command:
 
-bash```
+```
 nix develop
 ```
 
@@ -41,7 +42,7 @@ This command will set up the development environment with the correct Node.js ve
 
 Run the following command to start the development server using Vite:
 
-bash```
+```
 npm run dev
 ```
 
@@ -50,7 +51,7 @@ The development server will start, and you can view your application at http://l
 
 To create a production build of the project, use:
 
-bash```
+```
 npm run build
 ```
 
