@@ -1,4 +1,5 @@
-🚀 Nix-Flakes React Client
+# 🚀 Nix-Flakes React Client
+
 🌟 Overview
 
 Welcome to the Nix-Flakes React Client project! This project showcases how Nix, Nix Flakes, and NixOS can be used to create a stable and reliable development environment. The client-side application is built with React, CSS Modules, TypeScript, and Vite.
